@@ -1,1 +1,4 @@
 web-ext-artifacts/*
+data/components/
+node_modules/
+*.xpi
